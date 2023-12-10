@@ -7,3 +7,5 @@ My interest topics are cybersecurity, machine learning focus on the solution of 
 i´m currently working in own data science projects 
 i´m currently learning machine learning 
 Fun fact i prefer to watch 12 hours videos than 24 videos of half hour 
+i´m looking to collaborate on somtehing about data science 
+i´m looking for help with introduce myself to modelation and simulation 
